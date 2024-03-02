@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm yassine elmiri</h1>
+<h1 align="center">I'm Yassine Elmiri</h1>
 <h3 align="center">A passionate frontend developer from Morocoo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineelmiri&label=Profile%20views&color=0e75b6&style=flat" alt="yassineelmiri" /> </p>
